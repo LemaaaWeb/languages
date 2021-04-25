@@ -140,7 +140,7 @@ module.exports = {
         stats_board_members_category3: "Graphic",
         stats_board_members_category1_subcategory1: "👥 • Evolution:",
         stats_board_members_category1_subcategory1_displayedText: "> Members",
-        stats_board_members_category1_subcategory1_unitName: "memberz",
+        stats_board_members_category1_subcategory1_unitName: "members",
         stats_board_members_category1_subcategory2: "📋 • On average:",
         stats_board_members_category1_subcategory2_displayedText: "*New members:*\n> `+ {%a%}` members/**month**\n> `+ {%b%}` members/**day**\n> `+ {%d%}` members/**hour**",
         stats_board_members_category2_subcategory1: "<:le:807632343497703454> • :",
